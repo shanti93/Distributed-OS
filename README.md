@@ -1,7 +1,4 @@
-Group Info:
 
-Santhi Sushma Katragadda ñ UFID: 1748 9431
-Keerthana Bhuthala ñ UFID: 5251 1292
 ------------------------------------------------
 Instructions:
 For Mac/Linux machine
